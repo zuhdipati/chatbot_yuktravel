@@ -1,0 +1,10 @@
+langchain
+langchain-community
+chromadb
+ollama
+sentence-transformers
+torch
+transformers
+pandas
+beautifulsoup4
+jq

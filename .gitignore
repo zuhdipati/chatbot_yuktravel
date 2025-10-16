@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Cache & temporary files
+__pycache__/
+*.pyc
+*.pyo
+chroma_bge/
+
+# IDE / OS files
+.vscode/
+.DS_Store
