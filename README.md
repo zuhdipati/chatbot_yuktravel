@@ -8,11 +8,11 @@ Chatbot ini membaca ratusan data paket dari file JSON, lalu menggunakan kombinas
 
 ## ✨ Fitur Utama
 
-**LLM + RAG — menghasilkan jawaban berdasarkan pengetahuan nyata dari data paket wisata.
-**JSON Data Loader — membaca ratusan paket perjalanan dari file JSON.
-**Embedding Hugging Face — untuk representasi semantik teks paket wisata.
-**Chroma Vector Store — penyimpanan embedding untuk pencarian cepat dan efisien.
-**Conversational Memory — mampu mengingat konteks percakapan sebelumnya.
+- LLM + RAG — menghasilkan jawaban berdasarkan pengetahuan nyata dari data paket wisata.
+- JSON Data Loader — membaca ratusan paket perjalanan dari file JSON.
+- Embedding Hugging Face — untuk representasi semantik teks paket wisata.
+- Chroma Vector Store — penyimpanan embedding untuk pencarian cepat dan efisien.
+- Conversational Memory — mampu mengingat konteks percakapan sebelumnya.
 
 ## 🚀 Cara Menjalankan
 
